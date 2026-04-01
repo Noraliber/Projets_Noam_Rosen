@@ -2,7 +2,7 @@
 
 Ceci est un petit prototype de jeu que j'ai conçu avec Unity.
 
-Le dossier "code_Csharp" contient l’ensemble du code source écrit en C# utilisé pour ce projet.
+Le dossier "code_Csharp" contient l’ensemble du code écrit en C# utilisé pour ce projet.
 
 ---
 
