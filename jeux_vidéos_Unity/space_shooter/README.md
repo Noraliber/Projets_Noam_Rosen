@@ -8,21 +8,19 @@ Ceci est un exemple d'un petit jeu que j'ai développé sur Unity.
 
 Pour pouvoir jouer au jeu (sur une machine sous Windows uniquement), suivre les étapes ci-dessous :
 
-1. Créer un dossier vide.
+1. Télécharger le dossier zip du répertoire (le bouton vert "Code" sur la page principale du répertoire), et l'extraire.
 
-2. Ajouter les fichiers suivants dans ce dossier :
-   - "Untitled Space Shooter.exe"
-   - "UnityCrashHandler64.exe"
-
-3. Décompresser l’archive :
-   - "UnityPlayer_DECOMPRESSER_ET_METTRE_DANS_LE_MEME_FICHIER_QUE_EXE.zip"
-   - Puis placer le fichier extrait dans le même dossier que les ".exe".
+3. Sur votre ordinateur, naviguer jusqu'au dossier "space_shooter".
 
 4. Décompresser l’archive :
+   - "UnityPlayer_DECOMPRESSER_ET_METTRE_DANS_LE_MEME_FICHIER_QUE_EXE.zip".
+   - Puis placer le fichier extrait dans le même dossier que "Untitled Space Shooter" et "UnityCrashHandler64.exe".
+  
+5. Décompresser l’archive :
    - "DECOMPRESSER_ET_METTRE_DANS_MEME_FICHER_QUE_EXE.zip".
    - Puis placer tout son contenu (plusieurs dossiers) dans le même dossier que les ".exe".
 
-5. Lancer le jeu :
+6. Lancer le jeu :
    - Lancer "Untitled Space Shooter.exe".
 
 ---
