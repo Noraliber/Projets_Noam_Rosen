@@ -10,21 +10,19 @@ Le dossier "code_Csharp" contient l’ensemble du code écrit en C# utilisé pou
 
 Pour pouvoir jouer au prototype (sur une machine sous Windows uniquement), suivre les étapes ci-dessous :
 
-1. Créer un dossier vide
+1. Télécharger le dossier zip du répertoire (le bouton vert "Code" sur la page principale du répertoire), et l'extraire.
 
-2. Ajouter les fichiers suivants dans ce dossier :
-   - "Oh no you dont !.exe"
-   - "UnityCrashHandler64.exe"
-
-3. Décompresser l’archive :
-   - "UnityPlayer_DECOMPRESSER_ET_METTRE_DANS_LE_MEME_FICHIER_QUE_EXE.zip".
-   - Puis placer le fichier extrait dans le même dossier que les ".exe".
+3. Sur votre ordinateur, naviguer jusqu'au dossier "prototype_platformer".
 
 4. Décompresser l’archive :
+   - "UnityPlayer_DECOMPRESSER_ET_METTRE_DANS_LE_MEME_FICHIER_QUE_EXE.zip".
+   - Puis placer le fichier extrait dans le même dossier que "Oh no you dont !.exe" et "UnityCrashHandler64.exe".
+
+5. Décompresser l’archive :
    - "DECOMPRESSER_ET_METTRE_DANS_MEME_FICHER_QUE_EXE.zip"
    - Puis placer tout son contenu (plusieurs dossiers) dans le même dossier que les ".exe".
 
-5. Lancer le jeu :
+6. Lancer le jeu :
    - Lancer "Oh no you dont !.exe"
 
 ---
