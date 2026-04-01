@@ -6,7 +6,7 @@ Ceci est un un exemple de jeu simple que j'ai développé avec Unity.
 
 ## Lancer le jeu
 
-Pour pouvoir jouer au prototype, suivre les étapes ci-dessous :
+Pour pouvoir jouer au prototype (sur une machine sous Windows uniquement), suivre les étapes ci-dessous :
 
 1. Créer un dossier vide
 
@@ -20,10 +20,10 @@ Pour pouvoir jouer au prototype, suivre les étapes ci-dessous :
 
 4. Décompresser l’archive :
    - "DECOMPRESSER_ET_METTRE_DANS_MEME_FICHER_QUE_EXE.zip"
-   - Puis placer tout son contenu (plusieurs dossiers) dans le même dossier
+   - Puis placer tout son contenu (plusieurs dossiers) dans le même dossier que les ".exe"
 
 5. Lancer le jeu :
-   - Ouvrir "Untitled Space Shooter.exe"
+   - Lancer "Untitled Space Shooter.exe"
 
 ---
 
