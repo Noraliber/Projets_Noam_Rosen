@@ -1,1 +1,1 @@
-**Ce répertoire contient une partie du logiciel que j'ai concu lors du stage de 2nde, ainsi qu'une partie de graphes que j'ai concus avec ce logiciel pour comprer le deux mesures**
+**Ce répertoire contient une partie du logiciel que j'ai conçu lors de mon stage de 2nde, ainsi qu'une partie des graphes que j'ai conçus avec ce logiciel pour comparer les deux mesures**
